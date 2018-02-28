@@ -3066,6 +3066,15 @@ img {
 .image-large-2 {
   width: 50%;
 }
+.image-large-3 {
+  width: 65%;
+}
+@media all and (max-width: 1000px) {
+.image-large-3 {
+  width: 100%;
+}
+}
+
 .image-tile {
   overflow: hidden;
   position: relative;
