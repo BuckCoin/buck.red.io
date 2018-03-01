@@ -3065,6 +3065,7 @@ img {
 }
 .image-large-2 {
   width: 50%;
+  min-width: 275px;
 }
 .image-large-3 {
   width: 65%;
